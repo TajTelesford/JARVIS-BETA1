@@ -2,26 +2,16 @@
   {
     "tag": "greetings",
     "patterns": ["Hello", "Hello Jarvis", "how you doing jarvis", "Whats good", "what's up jarvis", "hi"],
-    "responses": []
+    "responses": ["hello sir", "how may i help you sir"]
   },
   {
     "tag": "goodbye",
     "patterns": ["Ill see you later Jarvis", "goodbye jarvis", "goodbye", "talk to you later", "bye", "bye jarvis"],
-    "responses": []
+    "responses": ["goodbye sir", "goodbye taj", "goodbye master"]
   },
   {
     "tag": "stocks",
-    "patterns": [""],
-    "responses": []
-  },
-  {
-    "tag": "",
-    "patterns": [],
-    "responses": []
-  },
-  {
-    "tag": "",
-    "patterns": [],
-    "responses": []
+    "patterns": ["Jarvis stocks", "jarvis give me my stocks", "give me my stocks", "show stocks"],
+    "responses": ["stocks"]
   }
 ]}
