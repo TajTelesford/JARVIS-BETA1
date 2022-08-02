@@ -1,0 +1,27 @@
+{"intents": [
+  {
+    "tag": "greetings",
+    "patterns": ["Hello", "Hello Jarvis", "how you doing jarvis", "Whats good", "what's up jarvis", "hi"],
+    "responses": []
+  },
+  {
+    "tag": "goodbye",
+    "patterns": ["Ill see you later Jarvis", "goodbye jarvis", "goodbye", "talk to you later", "bye", "bye jarvis"],
+    "responses": []
+  },
+  {
+    "tag": "stocks",
+    "patterns": [""],
+    "responses": []
+  },
+  {
+    "tag": "",
+    "patterns": [],
+    "responses": []
+  },
+  {
+    "tag": "",
+    "patterns": [],
+    "responses": []
+  }
+]}
